@@ -12,17 +12,17 @@ With randomly generated levels, no two playthroughs will ever be the same, makin
 
 ## Marc Zaku Stans
 
-Luca: Team Lead, player movement and combat, shop system etc. 
+[Luca](https://github.com/M1crob1ology): Team Lead, player movement and combat, shop system etc. 
 
-Kalle: Project Owner, world generation system. 
+[Kalle](https://github.com/KaleSmug): Project Owner, world generation system. 
 
-Hampus: enemies, bosses.
+[Hampus](https://github.com/HampusBrink): enemies, bosses.
 
-Rafa: room prefab design, game trailer.
+[Rafa](https://github.com/RaphaelMcCabe): room prefab design, game trailer.
 
-Leo: wall see-through shader, hub, enemy ai
+[Leo](https://github.com/SirBkdAlot): wall see-through shader, hub, enemy ai
 
-James: item system. 
+[James](https://github.com/Jlindhub): item system. 
 
 ## Screenshots
 <img width="1034" alt="image" src="https://user-images.githubusercontent.com/56590155/214082301-1e356c22-e68d-4290-9e37-203f1014401a.png">
